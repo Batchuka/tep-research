@@ -4,15 +4,11 @@ Como as fontes da monografia foram lidas, fichadas e organizadas. As notas ficam
 
 ## Big Picture
 
-<a href="https://batchuka.github.io/tep-monografia/">
-  <img src="../referencial/big_picture_tcc_tep.svg" alt="Big picture da monografia TEP">
-</a>
+O caminho da monografia: da pergunta de partida ao TEP e aos problemas P1 a P5, o que foi construído, os experimentos e as conclusões. Só aparecem as fontes citadas na monografia.
 
-> Clique na imagem para abrir a versão interativa — cada card navega para a nota correspondente.
+![Big picture da monografia](../referencial/big_picture_tcc_tep.svg)
 
 ---
-
-
 
 ## Inventário de Referências
 

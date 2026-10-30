@@ -22,7 +22,7 @@ Este repositório reúne a monografia e os documentos ligados a ela. Cada docume
   - **Normas resumidas:** [`IEC_62264.md`](docs/IEC_62264.md), [`IEC_62541.md`](docs/IEC_62541.md), [`IEC_63303.md`](docs/IEC_63303.md).
   - **Narrativa da monografia:** [`br_narrativa.md`](docs/br_narrativa.md) e [`br_narrativa_08_10_26.md`](docs/br_narrativa_08_10_26.md).
   - **Leitura de fontes:** os prompts `doc_prompt_*.md` e as respostas em [`respostas/`](docs/respostas/).
-  - **Mapa da monografia:** [`index.html`](docs/index.html), publicado em [batchuka.github.io/tep-monografia](https://batchuka.github.io/tep-monografia/), e [`miscellanea.drawio`](docs/miscellanea.drawio).
+  - **Diagramas:** [`miscellanea.drawio`](docs/miscellanea.drawio). O mapa geral da monografia está no [README da monografia](monografia/README.md#big-picture).
   - **Modelos do Ifes:** [`modelos-apresentacao-institucional-odp/`](docs/modelos-apresentacao-institucional-odp/), [`modelos-apresentacao-institucional-ppt/`](docs/modelos-apresentacao-institucional-ppt/) e [`modelo-padroes-acessibilidade/`](docs/modelo-padroes-acessibilidade/).
   - **Planta Festo do Ifes:** manuais e exercícios em [`planta-festo-ifes/`](docs/planta-festo-ifes/), para o mestrado.
 
