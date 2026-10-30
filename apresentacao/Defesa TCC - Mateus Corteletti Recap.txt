@@ -1,0 +1,72 @@
+Defesa TCC - Mateus Corteletti
+Thu, Oct 29, 2026
+
+Summary:
+
+Defesa de TCC sobre supervisão declarativa de uma planta química com Kubernetes e OPC UA.
+• Simulador Tennessee Eastman refatorado de Fortran para Rust.
+• Kubernetes avalia políticas usando dados do TAP Historian.
+• IDV6 provocou queda de produção e parada da planta.
+• Custo simulado: US$ 170,63/h nominal; US$ 114,32/h otimizado.
+• Erro no índice do Historian inverteu a avaliação de saúde.
+
+
+Action Items:
+
+* No action items generated
+
+
+Key Discussion Points:
+
+Abertura e organização da defesa
+Os participantes iniciaram com ajustes de áudio e conversas informais antes de começar a defesa. Rafael apresentou a dinâmica e o tempo disponível, e recomendou que Matheus desse atenção à contextualização técnica e à integração do trabalho.
+
+Planta Tennessee Eastman e escopo do estudo
+Matheus apresentou a proposta de supervisão declarativa e descreveu o Tennessee Eastman Process, incluindo sua estrutura, variáveis, atuadores e distúrbios. O estudo se concentra no modo de operação 1 e no distúrbio IDV6, que representa uma alteração na alimentação de ar.
+
+Arquitetura e implementação da solução
+Matheus organizou a solução em camadas, desde a planta e o controle regulatório até a supervisão. Explicou a refatoração do simulador em Rust, sua adaptação para operação contínua e a inclusão do Kubernetes, da IHM e do middleware Tap Historian; a otimização permaneceu fora do escopo.
+
+Contexto e funcionamento do Kubernetes
+Matheus apresentou a evolução de sistemas em hardware físico para virtualização, contêineres e orquestração. Explicou que o Kubernetes gerencia contêineres com base em políticas declarativas e não opera em tempo real, característica compatível com a camada supervisória proposta.
+
+Objetivo da pesquisa
+Matheus formulou o objetivo de avaliar uma camada supervisória construída sobre Kubernetes. A proposta é acompanhar a planta a partir de uma política declarada pelo usuário, sem exigir que o supervisor conheça os aspectos internos do processo.
+
+Escopo da supervisão e objetivos do trabalho
+Matheus distinguiu supervisão de otimização, estabilidade, seleção de variáveis e projeto de controle, delimitando o trabalho à observação do cumprimento de uma política. Também enumerou objetivos técnicos, incluindo refatoração do Fortran, comunicação OPC UA, historian, Kubernetes, distúrbio IDV6 e IHM.
+
+Arquitetura do ambiente e demonstração
+Matheus apresentou a interface UI Expert, a IHM no navegador e a comunicação com a planta simulada por OPC UA. O Kubernetes consulta o TAP Historian, que coleta sinais, mantém uma janela de 15 minutos e fornece estatísticas para a supervisão.
+
+Avaliação da saúde das malhas
+Foi apresentado o indicador de predicabilidade aplicado às três malhas de controle necessárias para manter a planta estável. A metodologia relaciona a previsibilidade do erro à possibilidade de ajuste: erros previsíveis indicam que há correções possíveis, enquanto erros imprevisíveis são considerados inerentes à planta.
+
+Declaração da planta e da política no Kubernetes
+Matheus explicou os três arquivos usados para configurar a supervisão: a definição da planta, a política com metas e limites e a função de custo. O Kubernetes usa essas declarações para acompanhar a conformidade da planta e avaliar sua performance econômica.
+
+Validação dos resultados da simulação
+Os custos simulados foram comparados com valores publicados para condições nominais e parâmetros otimizados, com diferenças pequenas em ambos os casos. Matheus também informou que as 50 equações diferenciais permanecem equilibradas e que as medições correspondem às referências.
+
+Validação do modelo e evolução dos experimentos
+Matheus apresentou evidências de que a refatoração reproduz o modelo original, incluindo a estabilidade das equações, a correspondência das medições e a configuração das válvulas. Descreveu a estrutura dos 27 experimentos, a construção da baseline e a decisão de abandonar o IDV4 após a instabilidade causada pela dinâmica adicional.
+
+Resposta da planta e avaliação inicial do Kubernetes
+Nos experimentos com Kubernetes, Matheus aplicou um degrau que interrompia a alimentação da espécie A e acompanhou a planta por cinco horas. A planta não se recuperou após o desligamento do IDV6, enquanto a avaliação inicial indicava malhas adequadas apesar da queda de produção e da violação de limites.
+
+Diagnóstico do índice no Historian
+Matheus examinou o índice de desempenho das malhas e explicou como sua interpretação deveria indicar degradação. Identificou que o índice foi invertido no Historian e que, com a leitura correta, o Kubernetes teria alertado sobre o problema antes da saída do setpoint.
+
+Limitações dos controladores proporcional e PI
+O controlador proporcional tolerava o erro, permitindo o acúmulo de gás e o aumento da pressão até a parada da planta. A tentativa com o PI levou à abertura da válvula de purga, à queda do nível do reator e ao colapso térmico; o Kubernetes detectou a pressão fora dos limites apenas tardiamente.
+
+Conclusões sobre a observabilidade e o controle
+Matheus concluiu que o Kubernetes conseguiu observar a planta e avaliar a política declarada, mas destacou que erros de implementação podem comprometer o diagnóstico. Também ressaltou que a escolha dos critérios e das estratégias de controle precisa ser discutida e pode variar de uma planta para outra.
+
+Trabalhos futuros e encerramento
+Matheus enumerou possibilidades futuras: corrigir erros, avaliar uma planta real com um gêmeo digital, incorporar análise de sinais para identificar falhas e desenvolver otimização em tempo real. Ao final, abriu espaço para dúvidas e Rafael anunciou a fase de admissão após observar que a apresentação havia ultrapassado um pouco o tempo.
+
+
+Notepad:
+
+* No notes

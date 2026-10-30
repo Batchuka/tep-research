@@ -1,0 +1,483 @@
+Defesa TCC - Mateus Corteletti
+Thu, Oct 29, 2026
+
+0:00 - Matheus Corteletti
+é desse trabalho aqui.
+
+0:03 - Unidentified Speaker
+Tá certo. Fala Daniel. Fala aí. Então.
+
+0:09 - Saul da Silva Munareto
+Eu sou não tá não tô ouvindo teu som aí Daniel.
+
+0:19 - Matheus Corteletti
+Abaixo. Mas tá baixo.
+
+0:22 - Unidentified Speaker
+Melhorou? Boa. É que eu tava O microfone errado.
+
+0:30 - Daniel Cruz Cavalieri
+E cada vez que eu vejo o Matheus, o Matheus tá mais cabeludo, né velho?
+
+0:36 - Unidentified Speaker
+É porque eu fiz a barba ontem, tá? Porque tava aqui já. Precisiam se assustar. Precisiam se assustar. Tem que cortar às vezes, né? Parecendo o cara do Resbolá. É, hoje eu fui cortar o cabelo também pra fazer a barba. Eu também. Todo mundo aí foi...
+
+0:56 - Daniel Cruz Cavalieri
+e aí dá uma faxina a faxina e não é o Felipe aí não ele foi tomar aí foi pegar um café né agora é tá aproveitando aí ó cafezinho dele pega o copo essa vidinha balançando assim para que tá quente é hora de fazer estou tentando café na máquina de três mil reais ele aí ó ele evoluiu então antes ele fazia lá no negocinho evoluiu tá evoluiu na loja daqui a pouco agora ele tá um sommelier de café devia abrir uma plantação de café logo e começar a trabalhar com isso ganhou uns cafés do Reginaldo aí também aí aproveitando aí você é parente do Reginaldo ou Matheus?
+
+
+
+1:53 - Matheus Corteletti
+com certeza a família toda daqui né mas assim eu não amo assim. Tem um mapa né um mapa que diz aonde você botar o seu sobrenome é um mapa do próprio govbr né estatística do IBGE aí você bota o seu sobrenome e aí você vê onde é que tá sua família assim né no Brasil aí a família cortelete é toda colatina. Deixa eu ver se eu acho esse site aqui.
+
+2:28 - Unidentified Speaker
+Ah é? É.
+
+2:29 - Daniel Cruz Cavalieri
+Vou botar aqui agora. Fiquei curioso, velho.
+
+2:33 - Rafael Emerick Zape de Oliveira
+E aí?
+
+2:34 - Unidentified Speaker
+Fala aí. Opa! Aí o café.
+
+2:37 - Daniel Cruz Cavalieri
+O cara chegou com um café.
+
+2:40 - Unidentified Speaker
+Gugu Gui.
+
+2:41 - Rafael Emerick Zape de Oliveira
+Café, né?
+
+2:42 - Unidentified Speaker
+Cafézinho, cafezinho. Cafézinho normal. É. Normal, normal aqui. Minha máquina aqui de 3 mil reais.
+
+2:49 - Daniel Cruz Cavalieri
+Porra, Daniel. O preço do patinete caralho, cada um faz o seu.
+
+2:55 - Unidentified Speaker
+O meu atador foi mais caro que o patinete. Você tá ligado que o Daniel tem de patinete agora? Agora eu tô, faria limer, faria lighter. Só falta botar aquele casaquinho, tá ligado? Uma pochetezinha, pochetezinha, um tênis. Aquele coletezinho. Aquela calça que sem meia, né?
+
+3:15 - Daniel Cruz Cavalieri
+Que o cara pessoal Isso, aquela que é essa apertadinha.
+
+3:20 - Unidentified Speaker
+Daqui a pouco o Daniel vai sumir, ele tá até emagrecendo, mas vai sumir daqui a pouco.
+
+3:26 - Rafael Emerick Zape de Oliveira
+É, é, é. Inveja é foda, Saul.
+
+3:29 - Unidentified Speaker
+Inveja é foda. Cada vez que eu vejo o Daniel, ele perdeu uns três quilos, porra. Porque eu fiz a barba e o cabelo, rapaz. Tá tudo igual. Tá tudo igual, né? Bom, vamos começar? Bora. Bora.
+
+3:44 - Rafael Emerick Zape de Oliveira
+Seguinte, então queria agradecer para que tem gente querendo entrar aqui ó.
+
+3:55 - Unidentified Speaker
+Ó.
+
+3:56 - Rafael Emerick Zape de Oliveira
+Bem vindo aí, Vitor Barbosa, Taciano.
+
+4:02 - Unidentified Speaker
+Boa tarde, boa tarde. Tudo certo. Beleza.
+
+4:12 - Rafael Emerick Zape de Oliveira
+sempre bom. Então, vamos dar início à defesa, a apresentação. Então, basicamente, é provavelmente a última apresentação aí do curso, mas não é muito diferente de outra apresentação que você já tenha feito. Eu vou passar a palavra aí para o Matheus. Você tem aí mais ou menos, Matheus, 20 a 30 minutos, tá? E aí, você marcou para uma hora e meia?
+
+4:36 - Unidentified Speaker
+Não, né? Acho que não.
+
+4:38 - Matheus Corteletti
+Rapaz, eu vou fazer o Dá pra fazer isso em uma hora, tá? Eu vou fazer o seguinte, se vocês me permitem já. Eu vou, assim, passar rápido para os resultados.
+
+4:51 - Rafael Emerick Zape de Oliveira
+Eu acho importante a contextualização técnica também, Matheus, porque o Saul e o Daniel têm perfis na área de controle, mas eu acho que a grande contribuição de integração que você tem é importante a gente frisar bem nesses pontos, né? Aqui, são dois professores que podem ser potenciais usuários do desdobramento que a gente pode ter esse, eu acho importante também. Então, não esquece de dar essa essa colher de chá, tá bom?
+
+ Tá bom. Então, passa a palavra aí e aí depois a gente passa pra argüição da banca, tá bom?
+
+5:30 - Unidentified Speaker
+Ok. Fica à vontade, irmão. Eu vou gravar aqui a apresentação, beleza?
+
+5:34 - Rafael Emerick Zape de Oliveira
+Alguém se opõe? Pode gravar?
+
+5:37 - Unidentified Speaker
+Tranquilo.
+
+5:38 - Saul da Silva Munareto
+Tem alguém vendo minha tela?
+
+5:40 - Matheus Corteletti
+Sim.
+
+5:41 - Unidentified Speaker
+Sim, agora sim. Beleza.
+
+5:43 - Matheus Corteletti
+Bom, a proposta é no supervisão, né? Então, a ideia é fazer uma supervisão declarativa de um processo industrial químico, né?
+
+5:55 - Unidentified Speaker
+Matheus? Você consegue dar um F5 aí? Acho que é F5, né?
+
+6:07 - Rafael Emerick Zape de Oliveira
+Aí, beleza.
+
+6:09 - Unidentified Speaker
+Clica ali embaixo, por gentileza, no hide. Só para aliviar meu toque. Obrigado.
+
+6:23 - Matheus Corteletti
+A ideia então é supervisionar uma planta, construir uma camada de supervisão em cima de uma planta industrial, química, de processo, como todos nós conhecemos, e utilizar a aplicação da indústria de software bastante conhecida, chamada Kubernetes. E a ideia é colocar essa aplicação para supervisionar essa planta, utilizando um protocolo de comunicação industrial que é o OPC-UA. Então o problema, vamos falar dele aqui, é basicamente, tem uma planta em operação e a gente quer ver se essa planta está cumprindo uma política, uma política de operação.
+
+ Para início de conversa, eu precisei procurar uma planta, porque eu não tenho acesso a uma planta física. Então eu acabei descobrindo esse que é canônico da academia de controle da automação, que é o Tennessee Eastman Process, que é um artigo feito pelo Downsville Vogels, lá por volta de 93. Eles criaram uma planta química fictícia, baseada na experiência deles, são dois engenheiros químicos, e eles fizeram isso para atender a pedidos justamente de engenheiros de controle que queriam algum benchmark para para poder testar técnicas de controle, principalmente no sentido plant wide e multivariável.
+
+ Então eles queriam um benchmark para poder testar técnicas nesse sentido.
+
+8:00 - Unidentified Speaker
+Então eles implementaram, baseado na experiência deles, uma planta que tem 12 válvulas, mas no total são 13 atuadores, tem 41 variáveis medidas e para monitoradas. E de quebra tem também um código Fortran, eles implementaram na época.
+
+8:19 - Matheus Corteletti
+E esse código ele tem todas as equações diferenciais, toda a dinâmica ali da química da planta. E eu utilizei isso para poder ser a minha planta. Quando a gente fala de, a partir de agora eu vou falar muito em TEP, T E P. E eu estou me referindo a ter esse Istman Process. E é basicamente isso.
+
+8:41 - Unidentified Speaker
+Esse aqui é um ciclo bem simples.
+
+8:44 - Matheus Corteletti
+A gente tem cinco unidades de acumuladores de energia e massa.
+
+8:50 - Unidentified Speaker
+Então a gente tem um reator onde acontecem quatro reações químicas exotérmicas. Um detalhe, não interessa no artigo o que são as espécies químicas.
+
+9:02 - Matheus Corteletti
+Então eles tratam sempre em A, D, E, porque o que interessa são as propriedades fisico-químicas delas. O que é isso exatamente? O que interessa é a taxa de reação, esse líquido que é um catalisador, ele não é consumido, ele só está aqui para iniciar a reação e são gases. Então a gente entra com esses três gases aqui, eles reagem, passam por esse afluente gasoso, são condensados, esse gás é condensado, aqui há uma separação, o líquido é purificado por um, aqui no striper, ele é purificado com uma corrente ascendente que é justamente mais um pouco de ar com outra espécie química C e também um inerte.
+
+ Aqui tem um reciclo desse jato ascendente aqui e isso produz o produto G e H, que é o que a gente pega aqui embaixo. Também temos uma escória, vamos dizer assim, um subproduto desejado que são as espécies B e F que ensina. É basicamente essa que é a estrutura da planta. É uma planta complicadinha, quando a gente vai ver as equações diferenciais aqui, existem termos não lineares, é uma planta acoplada, então, digamos assim, a temperatura, a pressão do separador influencia no reator, então tem esse acoplamento, não é uma planta trivial realmente.
+
+ Além disso, eles propõem também 20 distúrbios que eles colocam em lugares da planta. Por exemplo, o distúrbio que eu vou trabalhar aqui vai ser o distúrbio IDV6, que é um degrau na alimentação de ar. Então basicamente a gente corta a alimentação de ar e vê como a planta reage a isso. A proposta é que o engenheiro de controle automação construa um método de controle que seja robusto para esse distúrbio.
+
+ Outra coisa também que os autores originalmente propuseram foram os modos de operação.
+
+11:12 - Unidentified Speaker
+Então são seis modos de operação.
+
+11:14 - Matheus Corteletti
+Eu trabalho, eu vou focar no modo 1. E o que é o modo? É basicamente uma proporção do produto. Então tipo assim, o modo 1 é 50% G, 50% H.
+
+11:26 - Unidentified Speaker
+E é uma deliberação da camada de negócio.
+
+11:29 - Matheus Corteletti
+É como se a empresa falasse assim, ó, agora a gente tá no modo 1, Ou agora a gente está no modo 2, que é 75% G e 20% H.
+
+11:43 - Unidentified Speaker
+É uma deliberação do negócio.
+
+11:45 - Matheus Corteletti
+Que também tem que ser, teoricamente, atendida pela estratégia de controle. Bom, aí para que eu consiga situar o meu trabalho, eu preciso estabelecer quatro camadas que esse Skullcast e o Larson, nesse são as camadas que a gente conhece muito bem. Então está aqui a planta, a camada física, o tempo real, é onde tudo está acontecendo, que no caso é justamente o TNC process, tem as sensores, atuadores.
+
+ Acima da planta tem o controle regulatório, que está aí na ordem de segundos.
+
+12:28 - Unidentified Speaker
+Vai ter, no meu caso aqui, três controladores, todos proporcionais.
+
+12:33 - Matheus Corteletti
+No final eu vou falar de uma incursão que eu tive tentando converter eles de proporcional integral. Proporcional integral não deu certo. Vai ser interessante. Então aqui encerra essa parte física, vamos dizer assim. Toda essa lógica que está no Fortran deles, eu refatorei, eu mudei a linguagem para Rust, que é uma outra linguagem de proporção programação mais moderna, na verdade, extremamente moderna, comparada às que a gente conhece.
+
+ Utilizei essa linguagem porque eu imaginei que, como são muitos cálculos, um cálculo numérico muito intenso, você tem 50 equações diferenciais sendo integradas constantemente. Sinceramente, eu não sabia se isso ia pesar demais. Eu vou usar essa linguagem, que é uma linguagem rápida, uma linguagem performática, e também Como eu nunca programei nada com Rust, eu quis fazer essa experiência.
+
+13:34 - Unidentified Speaker
+Então eu tenho um projeto que é chamado TapPlant. O TapPlant é justamente a versão do Fortran original desses autores no Rust.
+
+13:44 - Matheus Corteletti
+Outra diferença é que esse código original dos autores, ele é um código assim, é um batch. Você chama, ele executa e ele termina. Acabou. Ele é one shot. Você sobe os parâmetros da sua simulação, ele calcula ali, de forma aquela lógica declarativa, procedural, e entrega o resultado. No meu caso não pode ser assim, porque no meu caso a ideia, justamente a proposta, é justamente supervisionar a planta, então ela precisa ficar online.
+
+ Essa foi uma adição que eu tive que fazer nesse código, então do código mesmo eu peguei a dinâmica da planta, mas eu tive que fazer várias outras coisas para manter essa dinâmica online, para eu conseguir realmente conduzir aquilo, observar, enfim. Então, no meu código, quando a gente liga, aquilo fica online ali, como um serviço, até você desligar. E está tudo aqui, nessas duas camadas. Aí eu também criei aqui na camada de cima, que já está na ordem de minutos, três coisas.
+
+
+
+14:55 - Unidentified Speaker
+A primeira coisa que está aqui nessa caixa mais cinza interna aqui é eu justamente peguei o Kubernetes pronto do jeito que ele está disponível. É uma aplicação open source.
+
+15:08 - Matheus Corteletti
+Você pode pegar, implantar ela e usar assim. Não tem que pagar nem nada. Tem versões pagas, mas ela tem a versão que eu midi. Pode pegar e usar do jeito que você quiser. Peguei esse produto de prateleira vamos dizer assim, eu associei a ele uma capacidade, que é esse plant supervisor, então eu tive que implementar uma funcionalidade e instalar ela dentro desse Kubernetes. Essa foi uma coisa que eu fiz aqui nessa camada.
+
+ Outra coisa, eu criei uma IHM, para a gente poder observar a planta. Então ela segue o padrão ISA 101, toda bonitinha, daqui a pouco eu vou mostrar para vocês, porque senão a gente não vai conseguir visualizar E também criei um middleware entre a planta e o Kubernetes, que é o tap historian, que também é feito em Python. Por quê? Porque o Kubernetes não vai entender de sinais. Não adianta ficar entregando sinais para ele no OPC UA, ele não entende isso.
+
+ Então você tem que criar um serviço entre ele e a planta, que é o middleware, que é o historian, para poder converter esses sinais em um veredito. A gente vai entender bem isso. E ainda além dessa camada tem a de otimização, que é um projeto paralelo que eu já estou tendo aí, mas está completamente fora do escopo.
+
+16:33 - Unidentified Speaker
+Que é justamente assim, otimizar a planta, mas está fora do escopo.
+
+16:38 - Matheus Corteletti
+O projeto, o foco do meu trabalho, ele está nessa parte vermelha aqui. É isso que interessa. É usar o Kubernetes para controlar essa planta. Apesar disso, eu gastei um tempo com ele, IHM e com a própria planta, porque sem isso a gente não conseguiria fazer o projeto. Então, a maior parte, 70% do tempo eu gastei refatorando o código e fazendo IHM. Porque o Kubernetes é pensado para ser simples, então não tem muito o que fazer ali.
+
+ Mas sem essa base eu não conseguiria. Bom, e aí o que é o Kubernetes? Vou falar bem rapidamente, até para A melhor forma de entender, agora eu parei de falar de controle, parei de falar de kit, agora estou falando de engenharia de software, de TI, é isso, para vocês entenderem o que é esta aplicação, este produto chamado Kubernetes. A melhor forma de entender é tentar traçar uma linha do tempo, de como que as coisas eram feitas, até como elas são feitas hoje.
+
+ Tempo atrás, quando eu nasci, na década de 90, eu nem precisava trabalhar com nada, o pessoal fazia o seguinte, quando eles queriam disponibilizar um sistema, por exemplo, sistema acadêmico, eles pegavam um hardware, tem uma máquina em algum lugar, como por exemplo a sala laboratório da Emeric, eles instalavam o sistema operacional nessa máquina, instalavam também algumas bibliotecas e frameworks e colocavam o código deles, que é o sistema que eles fizeram, por exemplo, o sistema acadêmico.
+
+ Aí quem quisesse acessava a porta dessa máquina e falava com o sistema acadêmico. Acontece que o pessoal começa a querer ter múltiplos sistemas no mesmo hardware. Por exemplo, a gente poderia ter nessa máquina do Emiric o sistema acadêmico e também o sistema interno de ponto de controle de dados públicos do IRTS. São dois sistemas dentro de um mesmo hardware. E aí a gente começa a ter uns problemas.
+
+ A gente começa a ter conflito de versão, de bibliotecas, às vezes até de sistema operacional. Talvez um sistema funcione em um sistema operacional A e o outro precisa de um sistema operacional B. Bom, aí o que o pessoal começa a fazer? Cria-se essa camada de hipervisor, em cima do sistema operacional para viabilizar o uso de máquinas virtuais. Então, é como se a gente pegasse aquele mesmo hardware e multiplexasse para dois sistemas operacionais distintos, justamente para poder separar aonde cada sistema vai e assim não ter conflito de versionamento e de biblioteca.
+
+ Beleza, funcionou muito bem. Que isso traz é que da isso gestão aumenta disso, a porque complexidade você solucionou o problema de ter múltiplos sistemas em uma máquina. Agora você tem muitas coisas para gerenciar. Então isso, meio que por osmose, evoluiu para o Docker e para essas soluções de containerização, que são na verdade uma simplificação disso aqui. É meio que você estabelecer ser um método mais simples para o usuário de utilizar essa mesma ideia aqui.
+
+ Tudo bem que o Docker não é necessariamente um hipervisor, ele não cria uma máquina virtual, mas no final do dia é só uma abstração disso aqui, é só um método para tornar isso aqui mais simples. Depois que isso aqui surge e se consolida, e isso é por volta de 2008, o pessoal começa a pensar em sistema, eles deixam de pensar em sistemas como, tem até a piada que eu coloquei na biografia, como um pet e começam a pensar nele como gado.
+
+ É uma coisa que você constrói para subir, se der pau, quebrar, derrubar, sobe outro. Eles trocam essa mentalidade de, o meu sisteminha que tem que ser todo tratado, como uma coisa que tem que ser feita para ser robusta. E aí a gente surge com esse contexto de... Surgem, inclusive, as grandes provedoras de cloud, a AWS é a primeira. Internamente, o Google já tinha sistemas semelhantes ao Kubernetes para gerenciar esse monte de containers.
+
+ E eles falam assim, quer saber, vamos disponibilizar esses sistemas de gestão de containers para o público. E aí o Kubernetes fica disponível em 2014, é do Google, foi produzido inicialmente no Google. E a ideia dele é justamente ser, a gente fica falando, uma camada, uma camada, mas é verdade, é uma camada acima dos contêineres. Então, quando você é um engenheiro e você tem uma infra e você decide que seu sistema é distribuído em vários contêineres, então cada contêiner desses tem um aspecto da sua aplicação.
+
+
+
+21:53 - Unidentified Speaker
+Você distribui em várias maquinazinhas, então você vai precisar de um Kubernetes para gerenciar isso, para criar links entre esses esses nodes, dar acessibilidade, enfim.
+
+22:04 - Matheus Corteletti
+Essa que é a aplicação, é daí que surge essa ferramenta. Muito difundida na indústria de TI. E aí, a ideia é ser também muito prático. Você declara para o Kubernetes, olha, eu quero esses containers. Você declara uma política para ele. Através de um arquivo, então você basicamente chega num terminal da vida, chama um CLI e fala assim, aplique este arquivo aqui, que é uma política. Isso aqui é tipo um arquivo TXT, um PDF, mas ele é uma declaração, depois a gente vai ver uns trechos que tem exemplos.
+
+ É um manifesto, você manifesta para o Kubernetes o estado daquele cluster, o que você quer que esteja ligado naquele cluster de containers, de pods, vamos dizer assim. E aí ele passa a observar e reconciliar, a tentar manter aquele cluster do jeito que você declarou. Então é uma simplificação muito grande do trabalho dessa pessoa que a gente vai dizer aí que é um DevOps, é um SRE na indústria de software, é isso.
+
+
+
+23:26 - Unidentified Speaker
+Ele não é em tempo real, tá?
+
+23:28 - Matheus Corteletti
+Então, e no nosso caso aqui não vai precisar ser, porque a proposta é usar ele para atuar numa camada de supervisório que a gente viu que está aí na ordem de minutos. Então, eu conhecendo o Kubernetes, o Emeric sempre estava falando pra gente explorar alguma coisa nisso, eu pensei assim, cara, que tal a gente botar o Kubernetes para observar uma planta industrial e ser uma espécie de supervisório, já que ele faz isso de certa forma na indústria software, por que não numa planta?
+
+ Vamos ver o que acontece. Agora a gente volta, já expliquei para vocês o que é isso e agora eu vou declarar aqui qual é o objetivo.
+
+24:08 - Unidentified Speaker
+É mostrar que uma camada supervisória construída sobre o Kubernetes consegue acompanhar uma planta a partir de uma política declarada pelo usuário, sem que o supervisor conheça a planta.
+
+24:20 - Matheus Corteletti
+Eu não quero que o Kubernetes saiba nenhum aspecto interno da planta. Não quero. Eu quero só declarar pra ele e que eu quero que ele observe a planta.
+
+24:32 - Unidentified Speaker
+Essa que é a ideia. Bom, esse é um objetivo, logicamente, na ênfase de integração de sistemas de controle. E o que fica fora desse escopo?
+
+24:42 - Matheus Corteletti
+Escolher variáveis controladas, sintonizar controladores, resolver P1 e P4, isso aqui eu acho que eu pulei. Só voltar pra vocês entenderem isso. É isso aqui. Isso aqui foi um esquemático que eu fiz para poder separar o trigo do joio. Porque eu fui lendo, isso está na referência ao teórico, muitas metodologias para avaliar se uma planta industrial está ok. E aí eu acabei percebendo que existem, digamos, domínios de problemas.
+
+ Aí eu acabei criando essa separação teórica aqui. Eu acho que o primeiro problema na hora de você pensar sobre manter uma planta industrial estável, é o problema de otimização. É tipo assim, o engenheiro químico já modelou ali as equações químicas daquela planta, os balanços.
+
+25:34 - Unidentified Speaker
+Beleza, eu sei como a planta se comporta, mas qual que é a melhor forma de manter essa planta funcionando? Então é um problema de otimização, a gente vai usar algoritmos de otimização, testar, testar, testar.
+
+25:50 - Matheus Corteletti
+da otimização também existe um problema de estabilidade, não adianta eu botar a planta para operar num regime ótimo, mas é um regime instável, então eu preciso avaliar se a planta vai ficar estável naquele regime. Então é um outro problema, aqui a gente já tem dois domínios de problemas, se a gente for recorrer à bibliografia acadêmica, a gente vai ver discussões homéricas sobre isso. Depois que a gente define o que seria o ponto ótimo, a gente pode, e o ponto ótimo em termos assim, se você coloca a planta em 130 graus e numa pressão nominal de 2700 kPa ela vai estar ótima, a reação vai estar no máximo.
+
+ Ok, mas isso não diz nada sobre quais variáveis controlar para manter aquilo, então aí a gente entra nesse problema 3, que é um outro o eixo, qual é a melhor variável para eu escolher para que essa planta fique robusta, que ela fique autoestabilizada, que eu tenha menos trabalho para manter ela estável. Aí definido a otimização, essas variáveis de controle, aí sim a gente tem um set point e a gente pode entrar no domínio de controle mesmo, qual estratégia de controle usar para poder manter essa planta controlada, quantas malhas, se vai ter cascata, qual é fundamentalmente o algoritmo, se é um PI, se é um PID, etc e tal.
+
+ Bom, isso tudo compõe a política, então a política, quando eu falar em política de operação, eu estou querendo dizer o seguinte, depois que alguém estudou muito sobre P1 e P4, a respeito da planta, ele vai conseguir dizer o que a planta deveria fazer, por onde ela não deve passar, quanto custa, etc e tal. Isso já está na literatura. O que falta é saber se a planta está cumprindo o que foi determinado, que é P5, que eu estou dizendo que é supervisão.
+
+ Aí volto lá. Então, aqui, o que está fora do escopo? Eu não vou me propor a resolver P1 e P4 aqui. O nosso objetivo é somente supervisão. E também nós não vamos agir sobre a planta.
+
+28:07 - Unidentified Speaker
+Vocês vão ver que o Kubernetes observa a planta, mas ele não age nada.
+
+28:12 - Matheus Corteletti
+Então ele chega a conclusões, mas ele não vai, sei lá, desligar um controlador ou vai fechar uma válvula, não vai fazer nada disso, não é o objetivo. O objetivo é só observar e ver se a planta está dentro de uma política só. E bom, o que a gente vai ter de objetivo específico para isso? Como eu disse, eu vou ter que transformar, refatorar o Fortran para um contínuo, fazer ele falar em OPC UA e eu tenho que verificar se depois de feito tudo isso, está fidedigno com o original, está dando os mesmos resultados.
+
+ Eu preciso criar um historian, esse middleware que coleta as estatísticas, porque a planta não persiste dados, então eu preciso gerar uma série histórica para poder avaliar esses sinais dentro de um período para saber se está tudo certo, senão não tem como também. Eu preciso conseguir declarar esse módulo no Kubernetes, eu preciso preciso implicar aí um distúrbio, eu tenho que ter a planta operando em operação normal, eu também preciso conseguir aplicar pelo menos um distúrbio, que no meu caso eu escolhi o IDV6, e eu preciso também de uma IHM para poder ver a planta.
+
+
+
+29:28 - Unidentified Speaker
+Esses são os objetivos específicos.
+
+29:30 - Matheus Corteletti
+Então vamos lá, o que foi construído? Esse é o ambiente que eu teria na máquina, que inclusive está rodando agora na minha estou máquina. Aqui com o meu computador, poderia ser também o meu notebook. Basicamente, eu acesso a interface chamada UI Expert e também o meu navegador. E aí eu tenho acesso, vou mostrar aqui.
+
+30:00 - Unidentified Speaker
+Então, por exemplo, eu estou aqui no UI Expert, eu estou justamente vendo todos os sinais que está vindo da planta, a planta está rodando nesse exato momento. Então eu consigo interagir com esses sinais, eu consigo, por exemplo, isso aqui é um Disturbance DV6, eu posso chegar aqui e ligar 1, não vou ligar porque vai afetar lá.
+
+30:24 - Matheus Corteletti
+Eu também posso chegar aqui e setar uma velocidade, inclusive, isso aqui acelera a velocidade de simulação, em 0 ela está assim, como se fosse na vida real. Mas aqui eu vou botar, sei lá, 100, vou ficar 100 vezes mais rápida a simulação. Aí eu mando o comando. Isso aqui é tudo uma interface de OPC UA. Então assim, é como se eu estivesse falando com uma planta. Tudo bem que ela está numa máquina ali sendo simulada, mas do ponto de vista dessa interface é uma planta real.
+
+ Se eu vou no... Se eu acesso no meu navegador a porta 8080, eu acesso a planta. Eu vejo essa IHM aqui, que foi inclusive feita no padrão ISA 101. Então a gente consegue ver aqui os feeds, os reciclos, tem analisadores, tem os atuadores, a válvula de purga aqui, tem vários sensores de nível, de temperatura, tem esses indicadores aqui, enfim. Inclusive tem aqui o Kubernetes observando a planta, mas vamos lá, vamos Então, tá aqui, são esses dois componentes, o TAP Historian e a IHM.
+
+ Eu acesso esse aqui através do navegador e se eu quiser falar diretamente com a planta, eu preciso desse UI Expert aqui, eu preciso dar um comando através daqui, que a planta só fala o OPC UA. O Kubernetes, ele tá rodando em um outro container e ele tá avaliando a planta através do Historian, como eu disse pra vocês, um middleware. É um sistema entre sistemas. Então o Kubernetes, para saber sobre a planta, ele precisa falar com o Historian, que vai justamente pegar, coletar esses sinais da planta que são enviados, atualizados a cada 10 milissegundos, a 100 milissegundos, e ele cria uma estatística por janela, uma memória de 15 minutos.
+
+ E a partir dela ele dá um veredito. E o que o Kubernetes está fazendo? Ele está fazendo basicamente isso aqui, chama. Isso aqui eu estou usando o PowerShell para poder invocar essa porta aqui, 8089, na rota aggregate. E aí eu estou pedindo, por exemplo, dados sobre a pressão do reator e o level do separador. Aí ele entrega um JSON padrão contendo as informações. E é isso que o Kubernetes obtém do Tap Historian.
+
+ A única forma de eu conseguir saber uma média é pegando um histórico. Então esse é o trabalho desse histórico aqui. Nele estão implementadas todas as estratégias de avaliação da planta. E ele persiste, por isso tem um sinalzinho de um banco aqui, 15 minutos. E depois vai rotacionando isso. Então essa é a estrutura que está no meu computador. Agora rodando. Bom, uma coisa que eu queria comentar aqui rapidamente é sobre essa outra rota que eu vou até chamar Loop Performance.
+
+ Ela tem esse indicador aqui, PI, chamado índice de predicabilidade das malhas de controle. Então, isso aqui é uma avaliação das malhas de controle.
+
+34:00 - Unidentified Speaker
+Como eu disse, na planta a gente tem três malhas de controle.
+
+34:05 - Matheus Corteletti
+A gente tem para a temperatura do reator, para o nível do separador e o nível do striper.
+
+34:11 - Unidentified Speaker
+São três malhas só, porque eu precisava delas para a planta ficar estável. Sem essas três malhas a planta não fica estável.
+
+34:20 - Matheus Corteletti
+E aí eu queria sei lá, eu botei nesse historian um método para avaliar se essas malhas estão saudáveis. E aí eu usei das várias que eu estudei no referencial teórico, eu optei por essa que foi do Bradu, que eles usaram lá no CERN. O CERN é onde tem o colisor de Hadrons, então eles têm várias malhas de criogênia, porque eles precisam manter uma determinada temperatura e são na verdade mais de 5 mil malhas, e aí eles não conseguem avaliar isso em tempo hábito.
+
+ E aí eles tiveram que desenvolver essa metodologia para poder ter uma espécie de relatório dizendo como é que estão as malhas. E é muito simples, eu guardo o erro, a diferença entre o erro e o touchpoint, eu vou armazenando isso e vou vendo se a partir do meu histórico de erros eu consigo prever o próximo erro. Se eu consigo prever o próximo erro, significa que a minha malha tem margem para acertos.
+
+ Ou seja, o controlador pode ser acertado para que eu corrija esse erro.
+
+35:32 - Unidentified Speaker
+Se eu não estou conseguindo prever o erro a partir do histórico, é um erro imprevisível. Então, não tem o que fazer. É um erro inerente à planta.
+
+35:44 - Matheus Corteletti
+E aí, digamos que a malha está saudável. Ou seja, quando o erro é imprevisível, significa que não há ajuste possível a ser feito. Então, a malha está saudável. Quando o erro é previsível, significa que há ajuste a ser feito e, portanto, a malha não está saudável. É basicamente isso. E eu optei por implementar isso dentro do Historian só para ficar legal. Poderia ter implementado outras, foi uma deliberação realmente minha.
+
+ Bom, e aí, sobre o O que eu declaro nele? Como eu disse, eu subo arquivos, eu envio arquivos para ele. Ele está lá rodando, está aqui rodando. Vou abrir aqui essa aplicação chamada Docker. Ele está aqui rodando. Eu basicamente chego num terminal desse e envio um arquivo para ele. Mando aplicar esse arquivo. E eu vou apresentar para vocês quais são os três arquivos. O primeiro arquivo é um plant.
+
+36:41 - Unidentified Speaker
+Eu declaro para ele o que é um uma planta.
+
+36:45 - Matheus Corteletti
+Eu falo assim, esta é a planta TEP. Se você quiser avaliar ela, você precisa ir justamente nessa porta aqui. E a política necessária para você avaliar essa planta é esta política TEP Model 1, que é justamente essa aqui de baixo. Aí é outro arquivo, é outro .yaml que eu tenho que entregar para ele. Aí eu tenho que falar, esse aqui é o TEP Model 1. Nele, eu vou fazer uma referência a uma função de custo que está em outro arquivo que é o de baixo, mas calma lá.
+
+ Dada essa função de custo, você precisa verificar essa política aqui. Então aqui nesse arquivo eu estou declarando metas, limites, orçamentos, quais são as malhas. Então aqui na malha do separador level, eu estou justamente dizendo que o setpoint é 50 e o índice de predicabilidade é 0.12, guardem esse número. Mas eu estou dizendo basicamente para o Kubernetes o seguinte, se você consultar o historian e ele dizer uma coisa diferente disso, é porque está fora do parâmetro.
+
+ E a função de custo é o terceiro arquivo que eu declaro, é assim que você mede a performance econômica da planta. A função de custo é uma coisa desse tipo aqui, isso aqui veio do artigo original, é um polinômio, uma soma de vários produtos, você tem que saber qual é o custo do A, do B, e aí você chega basicamente em quantos dólares essa planta gasta por hora. Justamente o Kubernetes tem a capacidade de avaliar isso.
+
+ Ou seja, resumo, eu entrego para o Kubernetes três arquivos e a partir desses três arquivos eu declaro qual é a política da planta. O trabalho dele é ficar acompanhando se a planta está na política. Beleza, isso aqui eu já mostrei. Resultados. Bom, a primeira coisa que eu precisei definir justamente é se a minha planta estava fidedigna com a planta original.
+
+39:15 - Unidentified Speaker
+E eu acho que sim, tá?
+
+39:18 - Matheus Corteletti
+Porque, por exemplo, Downs e Vogels, eles disseram que na execução nominal, a planta, a função de custo, diz que a planta custa 170,61 dólares por hora.
+
+39:32 - Unidentified Speaker
+Na minha simulação eu cheguei em 170.63, então está bem próximo.
+
+39:37 - Matheus Corteletti
+Aqui é um ponto que indica que a minha simulação está certa. Tem um outro artigo de um outro autor que também está na referência ao teórico, que é o Ricker, ele já vai focar mais em otimização dessa planta. Ele fala, pessoal, na verdade eu consegui otimizar aqui a planta, eu consigo fazer ela operar em 114,31 dólares por hora.
+
+40:06 - Unidentified Speaker
+Eu botei a minha planta nos parâmetros dele e de fato eu encontrei 114 e 32, então outro resultado que confirma que está simulando igual.
+
+40:16 - Matheus Corteletti
+Além disso, os 50 estados, as 50 equações diferenciais que tem, todas ficam próximas de zero, elas não ficam instáveis, eu consigo mantê-las equilibradas e as medições que eu faço batem com as medições do artigo. Para além disso, as válvulas todas estão na mesma abertura do artigo, então eu acho que Existe uma certeza muito grande da minha parte de que esse código que eu refatorei está bem fidedigno com o original.
+
+ Dito isso, eu preciso explicar o que são os experimentos, porque agora eu vou dizer os meus resultados. Para ir evoluindo, eu fui fazendo experimentos. Cada experimento é uma observação, eu observo uma coisa, formulo uma hipótese, depois eu faço uma intervenção em cima da hipótese, depois eu vejo o resultado da intervenção, aí eu registro a conclusão. Todos os 27 experimentos que eu fiz estão lá no repositório, cada um com essa estrutura, aí é o método aristotélico de fazer ciência.
+
+ Então eu comecei a fazer esses experimentos em meados de janeiro, porque em 2025 eu ainda estava tentando entender como aplicar o Kubernetes, Aí em novembro eu descobri o artigo do TEP. Em janeiro eu comecei a refatorar e por volta de março eu comecei o primeiro experimento, que era ajustar a planta. Então eu já tinha a primeira versão refatorada e comecei a ajustar essa lógica para ver se batia etc.
+
+ Então todos esses experimentos do 1 ao 11 são para gerar essa baseline. Aí quando chegou no 12 eu já tinha uma versão estável. Eu comecei a tentar implementar os distúrbios. Chegado no experimento 17, o que que acontece? Esse distúrbio IDV4, eu precisava adicionar uma dinâmica na planta, que originalmente não tinha. Então quer dizer, os autores eles propuseram esse distúrbio, mas eles não implementaram a dinâmica necessária para que o distúrbio fosse possível.
+
+ Então eu tive que ir lá e fazer. E quando eu fiz isso, a minha planta começou a ficar instável, ela começou a ter colapso térmico, começou a não ficar, não dava mais, aí eu fiquei tentando, perdi um tempo nisso, tentando controlar isso, foi até o experimento 24, foi aí que eu decidi ó, esquece IDV4, volta pra baseline e vamos seguir sem IDV4. Aí eu escolhi IDV6, que era um que estava funcionando, porque senão simplesmente o trabalho não ia terminar.
+
+ Então eu vou falar pra vocês aqui dos experimentos 25 a que são os últimos que eu fiz aqui. E eles todos foram feitos envolvendo o Kubernetes.
+
+43:06 - Unidentified Speaker
+Bom, o primeiro é o experimento 25.
+
+43:09 - Matheus Corteletti
+Muito simples, é um degrau. A planta está lá funcionando, igual está aqui no meu computador agora. Você vem e aplica um degrau, que neste caso é desligar completamente a alimentação da espécie A do elemento A ali que entra para a reação e aí vê como é que a planta se comporta. Este gráfico é o plot da função de custo ao longo do tempo. Então foram cinco horas de simulação. Ela começa no regime nominal, a planta quando ela inicia a simulação ela já começa nominal, já estável.
+
+ E aqui a gente tem essa reta tracejada que é o máximo de custo. Então é 170, 171 dólares por hora. Vocês veem que inicialmente ela está abaixo. Aí eu ligo o distúrbio, dá uma queda, porque se eu paro de alimentar com ar, a reação acaba e eu tenho menos desperdício. Então é uma economia fictícia, porque é lógico, eu estou tendo menos reação, estou tendo menos desperdício. Mas depois ela começa a aumentar, começa a aumentar, começa a aumentar até o momento que eu desligo o IDV6 e a planta não se recupera disso.
+
+ E aí esse é um dos problemas. Depois que o IDV6, é um problema de controle, depois que eu desligo o IDV6 a planta não se recupera desse distúrbio mais. Aí eu passo para essa parte de baixo aqui que são são barras para avaliar. Isso aqui é a avaliação do Kubernetes, o registro do que ele avaliou. Inclusive, esse plot aqui são os dados do Kubernetes. É a partir dos dados dele que eu plotei isso aqui.
+
+ Ele vai dizer aqui que 100% do tempo os loops de controle, as malhas estavam ok. Segundo aquela avaliação que eu expliquei lá de predizer o erro, estava ok. O que já é um resultado estranho, eu já adianto para vocês que está errado, e eu vou mostrar mais embaixo a correção, eu já captei qual que é o erro, mas poderia não ser, poderia ser tipo assim, cara, as malhas estavam sob controle mesmo, o erro não estava previsto, mas o distúrbio causou um desperdício, não tinha como saber, não é óbvio, não é trivial isso aqui, mas eu achei estranho e aí eu fui investigar.
+
+ Outra coisa, durante todo o tempo as constrentes não foram ultrapassados. Por exemplo, o reator não pode passar de 3.000 quilopascal. É uma definição física de segurança física.
+
+45:56 - Unidentified Speaker
+Não foram extrapoladas. A produção ficou verde até mais ou menos três horas e três aqui.
+
+46:05 - Matheus Corteletti
+Aí a produção caiu. E aí o Kubernetes começou a indicar aqui vermelho. A partir daqui ficou não compliant, ele começaria a indicar aqui nessa consulta, ele passaria a indicar aqui, não compliant, e dizia, não está batendo, aqui, ele iria falar, você disse que deveria estar em, sei lá, 170 mas está em 180, ele já não compliant. E ele também começou a indicar que ultrapassou quase em 3 horas e meia.
+
+ Aí eu fui para o experimento 25 duvidando que essas malhas estavam boas. O que eu fiz? Eu adicionei também, eu fiz o modifiquei lá para que o Kubernetes conseguisse também avaliar se o setpoint estava sendo atingido, porque isso não estava sendo avaliado. Só estava sendo avaliado se o erro estava sendo previsto. Aí quando eu botei ele para avaliar o setpoint, ele já começou a indicar problema aqui no loop, na malha.
+
+ Ele começou a dizer o seguinte, por volta de pouco mais de três horas, o setpoint sai e não volta mais. Não consigo mais controlar e aí foi que eu pensei assim cara como é que pode você não tá conseguindo controlar o setpoint e antes estava tudo certo né porque aqui em cima eu estava avaliando a o erro só aí aqui quando eu coloco setpoint ele passa não está no setpoint e o erro está ok como é que pode não tem aí eu entendi que tinha algum problema no índice né porque eu ultrapasso a pressão saudável saudável.
+
+ E o erro é basicamente o seguinte, aí a gente vai debruçar um pouco sobre o índice agora. Aquele índice que eu expliquei lá do CERN. O que a gente está vendo aqui? Vamos focar nesse gráfico aqui de baixo. A gente está avaliando três malhas de controle. Cada ponto desse é justamente essa medida aqui, por exemplo, quando eu chamo loop performance, eu obtenho esse PI dessa malha aqui, separator level, que é, por exemplo, esse cara aqui, separator level.
+
+ Então eu vou guardando essas tomadas de PI e vou registrando isso. São essas coisas.
+
+48:48 - Unidentified Speaker
+Aí a planta está aqui.
+
+48:51 - Matheus Corteletti
+Quanto mais próximo de 1 significa aquilo que eu disse. Significa que o algoritmo está conseguindo não estar está prevendo o erro. O erro que ele está calculando não é igual ao erro que ele está lendo. Portanto, é ruído. Não tem como prever esse erro.
+
+49:11 - Unidentified Speaker
+Portanto, a malha está saudável.
+
+49:13 - Matheus Corteletti
+Então, quando a gente começa aqui, a gente vê que a planta tem um certo índice ali, médio, que é ok. Está entre 0,6 e 0,8. Portanto, é o que dá para fazer. Com base nisso, a gente poderia estabelecer esse threshold aqui de 0,5 para que a gente não tenha alarme falso. Isso me lembrou muito a disciplina de controle estatístico de processo. A gente estabelece o threshold e aí se tiver fora, se tiver três medidas fora, é porque realmente está errado.
+
+ Essa malha está degradada, não está conseguindo controlar. O problema é que aí eu descobri isso, que eu inverti, eu rotacionei. Está vendo que esse gráfico de baixo aqui, ele está refletido aqui, nesse eixo x em 180?
+
+50:06 - Unidentified Speaker
+Porque eu peguei um menos o índice.
+
+50:09 - Matheus Corteletti
+Eu botei isso lá no Historian. No Historian, ficar próximo de 0 é bom e ficar perto de 1 é ruim. Só que, além de eu ter invertido isso, eu mantive a interpretação correta desse limite aqui. E falei, caramba, tá ruim, vou ter que botar 0.1, 0.12 aqui pra esse negócio ficar, senão o Kubernetes vai ficar falando que tá errado. Eu botei aqui embaixo, então isso explica porque 100% do tempo ele disse que estava bom, mas não estava, estava péssimo.
+
+ Esse gráfico aqui, ele é um gráfico que dá para obter a partir dos mesmos dados. Eu não refiz a simulação, eu obtive ele a partir dos mesmos dados, eu só refleti ele. Mas isso aqui que era o resultado correto. E olha o que é interessante, se eu tivesse implementado corretamente, a partir de duas horas e... Sei lá, vamos dizer que isso aqui é duas horas e sete, seis, ia vir o primeiro registro abaixo do threshold.
+
+ Aí assim ó, um, dois, três. Nesse aqui o Kubernetes ia começar a dizer ó, tem alguma coisa errada. Antes, inclusive, ele já ia dizer aqui ó, non-compliant aqui ó, 30 minutos depois do distúrbio. Então ele ia avisar com muita antecedência Antes, inclusive, de sair do setpoint, tem alguma coisa errada. A malha de controle do reator não está saudável. Tem um erro que eu estou conseguindo prever e essa malha não está corrigindo.
+
+ Essa é uma correção que tem que ser feita lá no historian, que eu já estou fazendo. O outro erro é justamente por que este controlador não está consertando esse erro. Quer dizer, beleza, eu já desliguei o IDV6 aqui. Por que o erro não some? Porque o controlador proporcional é tolerante com o erro. Ele não vai aumentar a abertura da válvula para poder voltar para o setpoint. Ele é tolerante. Então, vai acumulando, acumulando gás, gás, até uma hora que não dá.
+
+ E aí a pressão sobe acima de 3.000. A planta desliga. O que é que eu fiz? Pô, vou tentar um PI então, né? Porque o PI, ele acumula esse erro e ele força o setpoint. Beleza, fui lá e implementei o PI e a primeira coisa que eu fiz foi rodar nominalmente, eu não apliquei o distúrbio. Para ter o baseline, porque agora eu mudei os controladores, então preciso calcular o novo baseline. O que acontece? Com o PI, realmente ele vai abrir a válvula de purga.
+
+ Ele vai abrir a válvula de purga e vai abrindo até zerar o erro. Porque o que acontece? Isso sem o distúrbio. Já liguei a planta, ele já começa a abrir a válvula de purga para manter ali no setpoint. Só que ele vai abrindo, vai abrindo, vai abrindo e aí esse gás vai dando vazão o B vai se acumulando, o nível do reator cai, olha que doideira, olha que doideira, o nível do reator cai, o reator ele tem uma parte ali que é o gás reagindo ali em cima e tem a parte líquida aqui.
+
+ Quando o controlador PI começa a abrir a válvula de purga, ele começa a dar vazão, começa a acumular o inerte dentro ali, a reação, a taxa da reação ela cai e com isso o líquido, o nível do reator começa a baixar. Quando o nível do reator baixa, ele perde superfície de contato com a serpentina de troca de calor e aí mais ou menos quando é 45, o nível cai para 45, ele sai completamente dessa superfície, começa a aquecer aquele líquido, isso começa a afetar a reação, ela aquece, reage, reage, aí a pressão do reator sobe e explode.
+
+ Ou seja, a minha simples intervenção de trocar do proporcional para o PI para poder tentar controlar esse erro, explodiu o reator. Bem interessante isso. Mas é óbvio que aí eu voltei para o PI, deixa esse troço quieto aí, está muito complexo. Mas é um problema que tem que ser corrigido, porque a ideia é que a planta... Só que é um problema que está fora do escopo, vamos dizer assim, é um problema de controle.
+
+
+
+54:51 - Unidentified Speaker
+De fato, o Kubernetes conseguiu observar.
+
+54:54 - Matheus Corteletti
+E aqui é o que o Kubernetes observou no experimento 27, quando eu botei o PI. Ele justamente identificou que tarde demais, que a pressão estava fora. Bom, conclusões. O objetivo foi atingido. De fato, o Kubernetes está observando a planta e ele está julgando a política declarada. Sem conhecer o TEP. Ele consegue dizer se a planta está compliant ou non-compliant sobre esse distúrbio, então ele identifica que teve distúrbio, porém ele vai identificar bem ou mal a partir das suas estratégias de controle.
+
+ Então se você, como eu, implementar erroneamente, não tem mistério, não tem mágica que resolva isso. Então o historian vai dizer pra ele que tá tudo bem, mas não tá. Então é importante separar aqui a o meu erro de implementação do fato de que ele conseguiu de fato observar a planta. E dito isso, uma outra conclusão é, é preciso escolher os melhores critérios e estratégias de controle para que ele possa observar adequadamente.
+
+ Eu escolhi essas estratégias porque eram as que eu achei mais interessantes, mas é preciso ter um debate sobre quais são as melhores e eu imagino que isso vai mudar de planta para planta. Trabalhos futuros, primeiro corrigir esses erros, já tenho issues abertos para corrigir esses erros nos repositórios. Um outro trabalho que eu gostaria inclusive de seguir no mestrado é observar uma planta real. Eu já entrei em contato com o Saul pedindo algumas dados da planta que tem aí no que seria muito bacana que a gente conseguisse fazer uma digital twin, a gente chama.
+
+ Aí de fato é uma digital twin porque a planta existe realmente. E aí a gente modela essa planta também em Rust e o que poderia acontecer? Está lá a planta operando e o Kubernetes observando ela. Aí em determinado momento a gente fala, quer saber, eu quero mudar a política de operação dessa planta inteira, eu quero que ela vá para o modo 2 no ótimo lá. Aí você entrega esse arquivo para o Kubernetes falando, ó, aqui está a nova política.
+
+ Aí o que ele fala?
+
+57:15 - Unidentified Speaker
+Caramba, esse cara tá mudando bastante. Então o que eu vou fazer?
+
+57:19 - Matheus Corteletti
+Eu vou subir uma planta digital, que é a modelagem daquela planta, vou aumentar a velocidade de simulação, sei lá, 100 vezes e vou ver o que acontece quando eu aplico essa política nessa planta. Se depois de 100 vezes se simula, sei lá, 10 horas e 1 minuto, tá ok, então eu aplico e começo a observar. Seria um trabalho interessante. Outro trabalho interessante seria ter uma espécie de E aí eu falo até pro Daniel, que particularmente a disciplina que eu tive com ele foi de sinais.
+
+ Eu tive uma iniciação científica com o Luiz Alberto que foi, que é a linha de pesquisa dele, ele avalia os sinais elétricos de motores para ver se tem falhas em mancais de enrolamento. E aí ele faz tratamentos lá no sinal, é transformada em wavelet, aí ele treina, eu fiz isso com ele, treinamos uma rede neural para ver se Ou seja, é um tratamento do sinal para identificar um padrão de falha naquele sinal elétrico.
+
+
+
+58:17 - Unidentified Speaker
+Também dá para fazer isso muito fácil.
+
+58:20 - Matheus Corteletti
+Dá para pegar esse tipo de coisa e embarcar naquele historian e ele pode dizer o veredito. Se eu quisesse botar na minha política de operação, avalie os rolamentos da bomba de recirculação. Eu poderia botar e eu poderia ficar consumindo e aquele middle vai poder me dizer. De acordo com a avaliação que estou fazendo aqui e o conhecimento que eu tenho, que eu fui treinado para isso, o rolamento está estragado, a pista de rolamento está estragada, então essa máquina vai ter que parar.
+
+
+
+58:52 - Unidentified Speaker
+Dá para fazer também, essa é uma terceira linha de trabalhos futuros.
+
+58:55 - Matheus Corteletti
+E o quarto, já tem até um projeto para isso, que é a otimização em tempo real, que é ter aquela camada acima em que a gente fica observando a planta, aí você poderia dizer assim, Eu quero que a planta vá para essa operação aqui. Calcula para mim qual é o melhor ponto ótimo.
+
+59:16 - Unidentified Speaker
+Aí é elevado, gera-se um relatório, esse relatório já gera automaticamente uma política que já é inserida no Kubernetes e você já tem essa mudança em tempo real.
+
+59:30 - Matheus Corteletti
+São trabalhos possíveis. Na verdade, tem muitos trabalhos possíveis. E é isso. Dúvidas? Legal.
+
+59:37 - Rafael Emerick Zape de Oliveira
+Passamos um pouquinho do tempo, mas eu acho que não tinha como ser diferente, né? Agora a gente passa para a fase de admissão, né? E geralmente a gente faz isso
