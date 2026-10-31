@@ -1,6 +1,6 @@
 ## Artigo TEP
 
-Artigo derivado da monografia (`../monografia/`), usando o estilo arXiv-preprint ([arxiv-latex-template](https://github.com/kourgeorge/arxiv-latex-template), baseado em `nips_2018.sty`). Ver `License.txt` para a licença do estilo.
+Artigo derivado da monografia (`../tcc-monografia/`), usando o estilo arXiv-preprint ([arxiv-latex-template](https://github.com/kourgeorge/arxiv-latex-template), baseado em `nips_2018.sty`). Ver `License.txt` para a licença do estilo.
 
 ## Build
 

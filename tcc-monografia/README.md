@@ -1,6 +1,6 @@
 # Monografia — notas e referências
 
-Como as fontes da monografia foram lidas, fichadas e organizadas. As notas ficam no vault Obsidian em [`../referencial/`](../referencial/), compartilhado com o artigo ([`../paper/`](../paper/)). Para compilar a monografia, ver [`../docs/doc_setup-latex-monografia.md`](../docs/doc_setup-latex-monografia.md).
+As notas ficam no vault Obsidian em [`../referencial/`](../referencial/), compartilhado com os artigos ([`../paper-arxiv/`](../paper-arxiv/) e [`../paper-ieee/`](../paper-ieee/)). Para compilar a monografia, ver [`../docs/doc_setup-latex-monografia.md`](../docs/doc_setup-latex-monografia.md).
 
 ## Big Picture
 
