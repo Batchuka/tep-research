@@ -1,6 +1,10 @@
-# Supervisão industrial baseada em Kubernetes
+# gajeiro
 
-Documentos da pesquisa de Matheus Corteletti Delfino sobre supervisão declarativa de plantas industriais com Kubernetes: o TCC (Engenharia de Controle e Automação, Ifes campus Serra, defendido em 29/10/2026), que usou o Processo Tennessee Eastman (TEP) como planta, os artigos derivados e o plano do mestrado. O código fica nos repositórios listados em [Projetos](#projetos).
+Supervisão industrial baseada em Kubernetes.
+
+O gajeiro era o marinheiro que subia ao cesto da gávea, no alto do mastro das naus e caravelas portuguesas, para vigiar o horizonte e avisar o comando do que via. É o papel da camada supervisória: ficar acima da operação, observar e informar quem decide.
+
+Este repositório reúne os documentos da pesquisa de Matheus Corteletti Delfino sobre supervisão declarativa de plantas industriais com Kubernetes: o TCC (Engenharia de Controle e Automação, Ifes campus Serra, defendido em 29/10/2026), que usou o Processo Tennessee Eastman (TEP) como planta, os artigos derivados e o plano do mestrado. O código fica nos repositórios listados em [Projetos](#projetos).
 
 ## A ideia
 

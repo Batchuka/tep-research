@@ -28,7 +28,7 @@ Registro do ambiente de escrita da monografia — o que foi instalado, como o pr
 O repo hospeda documentos LaTeX autocontidos (a monografia, os slides da defesa, dois artigos derivados e o plano do mestrado), que compartilham o `referencial/` (vault Obsidian), onde fica o `references.bib` único.
 
 ```
-tep-research/
+gajeiro-research/
 ├── tcc-monografia/
 │   ├── main.tex           ← entry point LaTeX da monografia
 │   ├── ifes8.cls          ← classe da IFES (precisa ficar junto ao main.tex)
