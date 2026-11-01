@@ -25,11 +25,10 @@ Registro do ambiente de escrita da monografia — o que foi instalado, como o pr
 
 ## Estrutura do projeto
 
-O repo hospeda documentos LaTeX autocontidos (a monografia, os slides da defesa, dois artigos derivados e o plano do mestrado), que compartilham `referencial/` (vault Obsidian) e um único `references.bib` na raiz.
+O repo hospeda documentos LaTeX autocontidos (a monografia, os slides da defesa, dois artigos derivados e o plano do mestrado), que compartilham o `referencial/` (vault Obsidian), onde fica o `references.bib` único.
 
 ```
 tep-research/
-├── references.bib        ← bibliografia compartilhada
 ├── tcc-monografia/
 │   ├── main.tex           ← entry point LaTeX da monografia
 │   ├── ifes8.cls          ← classe da IFES (precisa ficar junto ao main.tex)
@@ -45,6 +44,7 @@ tep-research/
 ├── plano-pos/             ← plano de pesquisa do mestrado
 ├── docs/templates/        ← modelos originais (LaTeX e slides)
 └── referencial/           ← vault Obsidian (notas + PDFs + config)
+    ├── references.bib     ← bibliografia compartilhada
     ├── .obsidian/
     ├── articles/
     ├── books/
@@ -72,7 +72,7 @@ Para ativar um capítulo comentado no `main.tex`: remover o `%` antes do `\inclu
 |---------|------------------------|--------|
 | Capítulos em `tcc-monografia/trabalho/` | raiz do projeto | separar LaTeX de notas Obsidian |
 | `ifes8.cls` junto ao `main.tex` em `tcc-monografia/` | classe solta na raiz do repo | LaTeX exige classe no mesmo diretório do `main.tex`; mover `main.tex` para `tcc-monografia/` (revertendo a decisão anterior de nunca movê-lo) deixa o documento simétrico com os artigos e permite buildar cada um isoladamente |
-| `references.bib` compartilhado na raiz | um `.bib` por documento | monografia e artigo citam a mesma literatura — evita divergência ao adicionar referências |
+| `references.bib` compartilhado, em `referencial/` | um `.bib` por documento | monografia e artigo citam a mesma literatura — evita divergência ao adicionar referências |
 | `main.pdf` no `.gitignore` | versionar o PDF | evita conflito de merge a cada compilação (casa `main.pdf` em qualquer profundidade, cobre o `main.pdf` de cada documento) |
 
 ## Problemas em aberto / Próximos passos

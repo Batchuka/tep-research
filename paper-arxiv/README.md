@@ -4,7 +4,7 @@ Artigo derivado da monografia (`../tcc-monografia/`), usando o estilo arXiv-prep
 
 ## Build
 
-Entry point: `main.tex`. Bibliografia compartilhada com a monografia via `../references.bib` (não duplicar citações aqui — adicionar direto no `.bib` da raiz).
+Entry point: `main.tex`. Bibliografia compartilhada com a monografia via `../referencial/references.bib` (não duplicar citações aqui; adicionar direto nesse arquivo).
 
 ```
 latexmk -pdf -cd main.tex
@@ -21,4 +21,4 @@ latexmk -pdf -cd main.tex
 O ambiente TeX do arXiv não roda BibTeX. Antes de submeter:
 1. `latex main` / `bibtex main` (gera `main.bbl`)
 2. Colar o conteúdo de `main.bbl` dentro de `\begin{thebibliography}` em `main.tex`
-3. Comentar a linha `\bibliography{../references}`
+3. Comentar a linha `\bibliography{../referencial/references}`

@@ -8,7 +8,7 @@ Só os modelos usados pelos documentos do repositório. A versão de trabalho de
 | --- | --- | --- |
 | Classe `ifes8` (ABNT, Ifes) | [`tcc-monografia/`](../../tcc-monografia/) | [`tcc-monografia/ifes8.cls`](../../tcc-monografia/ifes8.cls) |
 | arXiv preprint ([arxiv-latex-template](https://github.com/kourgeorge/arxiv-latex-template)) | [`paper-arxiv/`](../../paper-arxiv/) | [`paper-arxiv/arxiv.sty`](../../paper-arxiv/arxiv.sty) |
-| IEEE conference (`IEEEtran`) e estilos de bibliografia `IEEEtranBST2` | [`paper-ieee/`](../../paper-ieee/) | originais em [`latex/ieee/`](latex/ieee/); extraídos em `paper-ieee/` |
+| IEEE conference (`IEEEtran`) e estilos de bibliografia `IEEEtranBST2` | [`paper-ieee/`](../../paper-ieee/) | originais em [`latex/ieee/`](latex/ieee/); a classe e o estilo vêm do pacote `ieeetran` do MiKTeX |
 
 ## Slides
 
